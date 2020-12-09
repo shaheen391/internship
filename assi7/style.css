@@ -1,0 +1,35 @@
+body {
+    background: whitesmoke;
+    }
+    
+    table {
+    background:grey;
+    border: 5px solid white;
+    }
+    
+    
+    td {
+    text-align:center;
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+    }
+    
+    
+    .stng{
+        width: 50px;
+        height: 40px;
+    background-color:grey;
+    color:black;
+    }
+    .inp{
+        width: 200px;
+        height: 30px;
+    }
+    .stngc{
+             width: 50px;
+        height: 40px;
+    background-color:grey;
+    color:black;
+    }
+    

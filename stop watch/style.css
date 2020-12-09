@@ -1,0 +1,25 @@
+h1{
+    display: inline-block;
+    margin: 10px;
+}
+button{
+    display: inline-block;
+    margin: 5px;
+    background-color: black;
+    color: whitesmoke;
+    
+}
+.main{
+    display: inline-block;
+    text-align: center;
+    background-color:whitesmoke;
+    width: 200px;
+    height: 100px;
+    margin-left: 550px;
+    padding: 30px;
+    position: relative;
+    top: 50px;
+}
+body{
+    background-color:gray;
+}

@@ -1,0 +1,111 @@
+.nav_bar{
+    padding-top: 10px !important;
+    background-color: #4169E1;
+     
+    
+}
+.navcol{
+    background-color: 0FF;
+}
+.btn{
+    margin-right: 10px !important;
+}
+.icon{
+    margin-right: 20px;
+}
+/* .main_img{
+    width: 70% !important;
+    border-radius: 10px 20px;
+    margin-left: 350px;
+    flex-direction: column; 
+} */
+.logo_img{
+    height: 80px;
+    width: 80px;
+    margin-left: 10px;
+}
+.slider1{
+    padding-top: 10px;
+}
+.shopcart{
+    padding-top: 20px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    border-radius: 2em !important;
+}
+.card  {
+    margin-left: 10px !important;
+   
+}
+.card_foot{
+    text-align: center;
+    
+}
+ 
+
+.footer{
+    /* background: url("images/footer.jpg"); */
+    background-color: black;
+    color: white;
+     
+}
+.foot_main{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contactUs{
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 20px;
+    background-color: grey;
+    border-radius: 2em;
+}
+.sl{
+    border-radius: 2em;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.contactHeading , .cardhead{
+    text-align: center;
+    text-decoration: underline;
+}
+.form_size{
+    margin-left: 20px !important;
+    margin-right: 10px;
+}
+ 
+.text_box{
+    margin-top: 20px;
+    background-color: whitesmoke;
+}
+.text_box1{
+    height: 400px;
+    background-color: whitesmoke;
+}
+.text_head{
+    text-align: center;
+    padding-top: 20px;
+}
+.text{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/* .about_img{
+    /* /* width: 70%;
+    /* margin-left: 200px; */
+    /* flex-direction: column;
+    text-align: center; 
+}  */ 
+
+.cart{
+    text-align: center;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.cardhead1{
+    text-align: center;
+    padding-top: 20px;
+}
